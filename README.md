@@ -10,7 +10,8 @@ Scraping Followers: The scraper collects data on followers for a specified targe
 Output Display: The application provides a text area to display the scraped follower data for each account, allowing users to monitor the scraping process and view results in real-time.
 Output to JSON: The scraped follower data is saved to JSON files, with each file named after the target username for easy identification and retrieval of data.
     
-     How to Use
+     How to Use:
+     
 Make sure to install:
 PyQt5 and InstaGPy
 
